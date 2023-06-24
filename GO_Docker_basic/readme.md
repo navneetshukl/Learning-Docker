@@ -5,3 +5,9 @@ This is simple demonstration of how to dockerize your go application and run it 
 
 ###  Commands
 
+
+
+### Resources
+
+Link: https://docs.docker.com/language/golang/build-images/
+
